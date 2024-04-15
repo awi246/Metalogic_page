@@ -1,0 +1,13 @@
+.f-head {
+  margin-bottom: 2rem;
+}
+
+.f-card {
+  gap: 0.6rem;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: max-content;
+  margin: auto;
+  transition: all 300ms ease-in;
+}
+
