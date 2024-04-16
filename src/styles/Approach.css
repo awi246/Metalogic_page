@@ -124,7 +124,7 @@ h1{
 }
 
 #about{
-    margin-top: 8rem;
+    /* margin-top: 8rem; */
     /* height: 100vh; */
     background-color: black;
     color: white;

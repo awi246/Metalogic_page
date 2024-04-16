@@ -4,7 +4,7 @@ import Img3 from "./../../assets/3.png";
 import "./../../styles/Foundation.css";
 const Foundation = () => {
   return (
-    <section className="f-wrapper">
+    <section id="f-wrapper">
       <div className="paddings innerWidth f-container">
         <div className="f-head flexColStart">
           <span className="orangeText">OUR FOUNDATION</span>
